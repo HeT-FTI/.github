@@ -1,6 +1,6 @@
-## 🌐 HeT-FTI — Future Technology Innovation Group at HeT
+## 🌐 HeT-FTI — Future Technology Innovation Laboratory at HeT
 
-**HeT-FTI** (HeT – Future Technology Innovation) is the advanced AI R&D team of **Shenzhen HeT Intelligent Control Co., Ltd.** We specialize in **Edge AI** and **Edge-Cloud Collaborative Intelligence**, driving the integration of cutting-edge artificial intelligence into core business domains such as smart controllers, automotive electronics, and connected home systems.
+**HeT-FTI** (HeT – Future Technology Innovation) is the advanced AI R&D Lab of **Shenzhen HeT Intelligent Control Co., Ltd.** We specialize in **Edge AI** and **Edge-Cloud Collaborative Intelligence**, driving the integration of cutting-edge artificial intelligence into core business domains such as smart controllers, automotive electronics, and connected home systems.
 
 ---
 
